@@ -1,4 +1,6 @@
-### Hi there 👋
+### ¡Hola!
+##### Soy un estudiante de FP en Desarrollo Web, 2do año.
+##### Interesado en desarrollo Backend, hardware de servidores, software libre y GNU/Linux. Aficionado a la electrónica
 
 <!--
 **GaboMartinezC/GaboMartinezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
