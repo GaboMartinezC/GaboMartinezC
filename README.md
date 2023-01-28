@@ -8,7 +8,7 @@
 #### &lt;!--Mis stats: --&gt;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabomartinezc&theme=gotham&show_icons=true)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabomartinezc&langs_count=6&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabomartinezc&langs_count=6&exclude_repo=ProyectoIIITrim2022&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
